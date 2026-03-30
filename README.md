@@ -25,10 +25,10 @@ This is one of my first Python projects, built while learning data analysis and 
 
 ![Correlation Heatmap](https://raw.githubusercontent.com/LSiLing/asian-tech-market-analysis/main/stock_reports/Market_Correlation_Heatmap.png)
 ![TSMC](https://raw.githubusercontent.com/LSiLing/asian-tech-market-analysis/main/stock_reports/TSM_Dashboard.png)
-![Samsung](https://raw.githubusercontent.com/LSiLing/asian-tech-market-analysis/main/stock_reports/005930_KS_Dashboard.png)
-![Alibaba](https://raw.githubusercontent.com/LSiLing/asian-tech-market-analysis/main/stock_reports/9988_HK_Dashboard.png)
-![Tencent](https://raw.githubusercontent.com/LSiLing/asian-tech-market-analysis/main/stock_reports/0700_HK_Dashboard.png)
-![Foxconn](https://raw.githubusercontent.com/LSiLing/asian-tech-market-analysis/main/stock_reports/2317_TW_Dashboard.png)
+![Samsung](https://raw.githubusercontent.com/LSiLing/asian-tech-market-analysis/main/stock_reports/005930.KS_Dashboard.png)
+![Alibaba](https://raw.githubusercontent.com/LSiLing/asian-tech-market-analysis/main/stock_reports/9988.HK_Dashboard.png)
+![Tencent](https://raw.githubusercontent.com/LSiLing/asian-tech-market-analysis/main/stock_reports/0700.HK_Dashboard.png)
+![Foxconn](https://raw.githubusercontent.com/LSiLing/asian-tech-market-analysis/main/stock_reports/2317.TW_Dashboard.png)
 ![Sony](https://raw.githubusercontent.com/LSiLing/asian-tech-market-analysis/main/stock_reports/SONY_Dashboard.png)
 
 ## Technologies used
